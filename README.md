@@ -100,7 +100,7 @@ The platform is being prepared for commercial deployment.
 ## Contact
 
 LinkedIn:
-(Add your LinkedIn URL)
+www.linkedin.com/in/abdalrahman-taher-6185702b6
 
 GitHub:
 https://github.com/Abdalrahman-taher
