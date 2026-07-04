@@ -197,22 +197,21 @@ This fragmentation causes **zero auditability**, **unreliable quota enforcement*
 ### Network Dashboard
 *Central monitoring dashboard for ISP operations, alert streams, and network metrics.*
 
-<img src="assets/screenshots/network-dashboard.jpeg" width="80%" />
+<img src="./assets/screenshots/network%20dashboard.jpeg" width="80%">
 
 <br/><br/>
 
 ### Topology Visualization
 *Graph representation of discovered network devices, bridged connections, and edge relationships.*
 
-<img src="assets/screenshots/topology-graph.jpeg" width="80%" />
+<img src="./assets/screenshots/Topology.jpeg" width="80%">
 
 <br/><br/>
 
 ### Billing & Subscriptions
 *Financial interface detailing customer wallets, pending payments, and auto-renewal states.*
 
-<img src="assets/screenshots/billing-dashboard.jpeg" width="80%" />
-
+<img src="./assets/screenshots/Billing.jpeg" width="80%">
 </div>
 
 ---
